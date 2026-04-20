@@ -12,7 +12,7 @@ const heroContent = {
   heroImage: heroImgMobile,
   heroMobileImage: heroImgMobile,
   heroTitleName: "Adnan Maqsood",
-  heroDesignation: "Frontend Developer | ReactJS | NextJS",
+  heroDesignation: "Web Developer | ReactJS | SPFX",
   // heroDescriptions: `I'm web designer & front-end developer focused on
   // crafting clean & user-friendly experiences, I am passionate about
   // building excellent software that improves the lives of those
